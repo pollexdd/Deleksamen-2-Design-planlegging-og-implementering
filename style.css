@@ -361,11 +361,12 @@
                          ".    footer  footer  .";}
   .meny {
     display: grid;
-    grid-template-rows: 50%;
-    grid-template-columns: 50%;
     grid-column-gap: 1em;
-    background-color: rgb(124, 144, 204);
-    grid-gap: 1em;
+    background: blueviolet;
+    padding: 10px;
+    color: aliceblue;
+    border: skyblue 5px;
+    column-gap: 10px;
   }
 
  .bildeheader{
