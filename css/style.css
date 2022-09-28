@@ -1,3 +1,4 @@
+
 body {
   /* bakgrunnsbilde tatt fra: https://c4.wallpaperflare.com/wallpaper/790/791/601/northern-lights-aurora-borealis-uk-2015-wallpaper-preview.jpg */
   background-image: url("../bilder/bakgrunnsbilde.jpg");
@@ -25,11 +26,7 @@ body {
   justify-content: left; 
 }
 
-.logo{
-  width: 100%;
-  height: 100%;
-  border-radius: 0 0 0 16px;
-}
+
 
 nav li {
   list-style: none;
@@ -42,6 +39,12 @@ nav li a {
   padding: 5px;
   font-size:xx-large;
   text-shadow: 5px 6px 7px black;
+}
+
+.logo{
+  width: 100%;
+  height: 100%;
+  border-radius: 0 0 0 16px;
 }
 
 .text {
